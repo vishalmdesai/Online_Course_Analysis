@@ -26,7 +26,9 @@ This dashboard empowers EdTech platforms to make data-driven decisions, enhancin
 
 ### 🖼️ Dashboard Snapshots  
 
+![Image](https://github.com/user-attachments/assets/4156429a-0b82-4896-8d7b-6f2bcb7df79d)
 
+![Image](https://github.com/user-attachments/assets/cf5aa3b8-bd2c-4e66-aeb1-b0ec36240c06)
 
 
 
