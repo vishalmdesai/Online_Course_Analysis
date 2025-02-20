@@ -40,8 +40,4 @@ Source: Kaggle
 Rows: 8,092 
 Columns: 44  
 
-### 💻 Tools Used  
-
-Power BI: Data visualization and dashboard creation  
-Excel: Initial data cleaning and organization  
 
