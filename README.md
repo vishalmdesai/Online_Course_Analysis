@@ -20,7 +20,7 @@ I recently completed an insightful data analysis project focused on recorded lec
 
 ✅ Top-rated instructors by category and sub-category.  
 
-###💡 Business Impact  
+### 💡 Business Impact  
 
 This dashboard empowers EdTech platforms to make data-driven decisions, enhancing both content relevance and audience engagement. By identifying popular categories, preferred languages, and effective course structures, businesses can tailor their course offerings to meet the evolving needs of learners.  
 
